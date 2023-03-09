@@ -1,1 +1,3 @@
 # bar-src
+
+# new line
